@@ -314,7 +314,7 @@ body{
     top: 8.3%;
     left: 3%;
     opacity: 50%;
-    background-blend-mode: luminosity;
+    /*background-blend-mode: luminosity;*/
     background-image: url("static\\energy.jpg");
 }
 .frame3box1text1{
@@ -350,7 +350,7 @@ body{
     top: 8.3%;
     left: 51.5%;
     opacity: 50%;
-    background-blend-mode: luminosity;
+    /*background-blend-mode: luminosity;*/
     background-image: url("static\\cleaning.jpg");
     background-size: 100% 100%;
 }
@@ -388,17 +388,15 @@ body{
     top: 37.4%;
     left: 3%;
     opacity: 50%;
-    background-blend-mode: luminosity;
-    background-image: url("static\\frame 2b.png");
+    background-image: url("static\\security.jpg");
     background-size: 100% 100%;
 }
 .frame3box3text1{
     position: absolute;
     width: 16.2%;
     height: 9.1vh;
-    top: 10.7%;
-    left: 56%;
-    content: "Catering & House Keeping";
+    top: 39.7%;
+    left: 7%;
     font-size: 2em;
     font-weight: 700;
     font-family: 'Radikal', sans-serif;
